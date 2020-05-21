@@ -11,5 +11,6 @@ Custom key mappings in [keyboards/crkbd/keymaps/rpak-2](keyboards/crkbd/keymaps/
 ![Current Keymap](keyboards/crkbd/keymaps/rpak-2/keymap.png)
 
 # Ergodox EZ 
+QMK Toolbox can be used to flash `ergodox_ez_rpak.hex`. Updated QMK Configuration file is located [here](keyboards/ergodox_ez/keymaps/rpak/qmk_configurator.json).
 
 1. Build, `make ergodox_ez:rpak`
